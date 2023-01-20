@@ -1,3 +1,8 @@
+This is a fork of CTL from - https://github.com/glouw/ctl
+
+Contact Gustav Louw for more information ...
+
+
 # C TEMPLATE LIBRARY (CTL)
 
 CTL is a fast compiling, type safe, header only, template-like library for ISO C99/C11.
