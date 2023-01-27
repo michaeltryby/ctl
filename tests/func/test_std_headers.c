@@ -22,9 +22,17 @@
 #include <stdnoreturn.h>
 #include <string.h>
 #include <tgmath.h>
+
+#ifndef __STDC_NO_THREADS__
 #include <threads.h>
+#endif
+
 #include <time.h>
+
+#ifndef __APPLE__
 #include <uchar.h>
+#endif
+
 #include <wchar.h>
 #include <wctype.h>
 
