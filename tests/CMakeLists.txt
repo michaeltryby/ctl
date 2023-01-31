@@ -6,8 +6,7 @@ set(TEST_BIN_DIRECTORY "${CMAKE_BINARY_DIR}/tests")
 
 
 
-set(
-    TEST_SRCS
+set(TEST_SRCS
         func/test_std_headers.c
         func/test_c11.c
         func/test_container_composing.cc
